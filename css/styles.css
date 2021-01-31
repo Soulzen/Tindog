@@ -136,21 +136,27 @@ body {
 #cta {
 	text-align: center;
 	font-family: Montserrat;
-	font-weight: 700;
 	background-color: #ff4c68;
 	color: #fff;
-	padding: 5% 7%;
+	padding: 7% 15%;
+}
+
+.cta-heading {
+	font-family: Montserrat;
+	font-weight: 900;
+	font-size: 3.5rem;
+	line-height: 1.5;
 }
 
 /* Footer Section  */
 
 #footer {
 	text-align: center;
-	margin: 5% 7%;
+	padding: 7% 15%;
 }
 
 #footer p i {
-	margin: 2% 2%;
+	margin: 20px 10px;
 }
 
 /* Media Querys */
